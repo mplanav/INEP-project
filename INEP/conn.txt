@@ -1,0 +1,1 @@
+dbname=INEP user=postgres password=inep2023 hostaddr = 127.0.0.1 port = 5432

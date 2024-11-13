@@ -1,0 +1,1 @@
+heu d'accedir a un fitxer que es diu "conn.txt" i canviar la cadena de connexió a la vostra base de dades
